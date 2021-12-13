@@ -1,6 +1,6 @@
 package MultiDimensionalArray;
 import java.util.Scanner;
-public class MultiDArray {
+public class EvenNumbers {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter row");
