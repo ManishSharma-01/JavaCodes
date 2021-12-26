@@ -1,4 +1,4 @@
-package Chapter5;
+package PrivateConstructor;
 
 public class Student {
     private String fname;
