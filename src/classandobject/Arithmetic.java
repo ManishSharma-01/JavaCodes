@@ -1,4 +1,4 @@
-package ClassAndObject;
+package classandobject;
 
 public class Arithmetic {
 

@@ -11,7 +11,9 @@ public class BusinessLogic {
 
     }
 
-
+    public int sub(){
+        return firstNum - secondNum;
+    }
     public int add() {
         return firstNum + secondNum;
     }

@@ -1,5 +1,5 @@
 package OOPChapter7;
 
-class employee {
+class emplye {
     float salary =40000;
 }

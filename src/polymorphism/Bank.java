@@ -1,2 +1,4 @@
-package polymorphism;public class Bank {
+package polymorphism;
+
+public class Bank {
 }
